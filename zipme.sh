@@ -1,0 +1,1 @@
+zip -r mikran-1.0-session.ocmod.zip install.xml README.md upload/
